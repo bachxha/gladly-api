@@ -1,4 +1,4 @@
-hello,
+Hello,
 
 This is a script to parse the CSV file located in the resource file and post it to Glady's api.  To run this yourself:
 
